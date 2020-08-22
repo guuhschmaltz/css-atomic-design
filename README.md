@@ -1,6 +1,5 @@
 <h1 align="center"> Atomic Design
-  
-Curso de arquitetura "Atomic design" da plataforma [Alura](https://rocketseat.com.br/)
+
   
 ![GitHub language count](https://img.shields.io/github/languages/count/guuhschmaltz/css-atomic-design) 
 ![GitHub top language](https://img.shields.io/github/languages/top/guuhschmaltz/css-atomic-design?style=plastic) 
@@ -8,6 +7,9 @@ Curso de arquitetura "Atomic design" da plataforma [Alura](https://rocketseat.co
 
 </h1>
 
+## Sobre
+
+Curso de arquitetura "Atomic design" da plataforma [Alura](https://rocketseat.com.br/)
 
 ## Estrutura das Pastas
 
