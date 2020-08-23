@@ -1,10 +1,4 @@
 <h1 align="center"> Atomic Design
-
-  
-![GitHub language count](https://img.shields.io/github/languages/count/guuhschmaltz/css-atomic-design) 
-![GitHub top language](https://img.shields.io/github/languages/top/guuhschmaltz/css-atomic-design?style=plastic) 
-![GitHub repo size](https://img.shields.io/github/repo-size/guuhschmaltz/css-atomic-design) 
-
 </h1>
 
 ## Sobre
